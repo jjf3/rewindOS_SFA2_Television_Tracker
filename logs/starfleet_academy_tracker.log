@@ -1,0 +1,12 @@
+2026-02-10 14:46:49,505 INFO Searching r/television for 'Starfleet Academy' (limit=100, sort=new, t=all)
+2026-02-10 14:46:50,311 INFO Found 37 unique posts across subreddits/terms.
+2026-02-10 14:46:51,134 INFO Wrote plot: C:\Users\jjf3\Projects\rewindos_sfa2_tracker\out\starfleet_academy_episode_comment_growth.png
+2026-02-10 14:46:51,474 INFO Wrote plot: C:\Users\jjf3\Projects\rewindos_sfa2_tracker\out\starfleet_academy_non_episode_comment_growth.png
+2026-02-10 14:46:51,475 INFO Wrote dashboard HTML: C:\Users\jjf3\Projects\rewindos_sfa2_tracker\out\dashboard_starfleet_academy.html
+2026-02-10 14:46:51,477 INFO Done.
+2026-02-10 14:58:30,536 INFO Searching r/television for 'Starfleet Academy' (limit=100, sort=new, t=all)
+2026-02-10 14:58:31,345 INFO Found 37 unique posts across subreddits/terms.
+2026-02-10 14:58:32,162 INFO Wrote plot: C:\Users\jjf3\Projects\rewindOS_SFA2_Television_Tracker\out\starfleet_academy_episode_comment_growth.png
+2026-02-10 14:58:32,481 INFO Wrote plot: C:\Users\jjf3\Projects\rewindOS_SFA2_Television_Tracker\out\starfleet_academy_non_episode_comment_growth.png
+2026-02-10 14:58:32,483 INFO Wrote dashboard HTML: C:\Users\jjf3\Projects\rewindOS_SFA2_Television_Tracker\out\dashboard_starfleet_academy.html
+2026-02-10 14:58:32,483 INFO Done.
